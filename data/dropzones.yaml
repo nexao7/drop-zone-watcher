@@ -1,10 +1,15 @@
+---
 dropZones:
   - name: DZ1
     lat: 48.8566
     lng: 2.3522
+    icon: flight.png
   - name: DZ2
     lat: 45.7640
     lng: 4.8357
+    icon: flight.png
   - name: DZ3
     lat: 43.6047
     lng: 1.4442
+    icon: flight.png
+...
